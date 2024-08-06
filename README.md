@@ -10,7 +10,7 @@ irm "https://christitus.com/win" | iex
 ```
 irm https://get.activated.win | iex
 ```
-
+[WinRAR key](https://github.com/fastnicky/setup/blob/main/rarkey.rar) - download and open file after winrar is downloaded
 
 # program downloads
 [WinRAR](https://www.win-rar.com/postdownload.html?&L=0) - rar extractor and maker
